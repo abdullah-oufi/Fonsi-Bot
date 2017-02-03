@@ -23,5 +23,3 @@ Instrucciones de Uso:<br />
   ****Recuerda no dar Finish rapido, tardate como 10-15min en apretar el boton de terminar Quiz ;)****
   ____________________________________________________________________________________________________
 
-  <a href="http://i.imgur.com/5SEgZJD.gif">http://i.imgur.com/5SEgZJD.gif</a>
-
